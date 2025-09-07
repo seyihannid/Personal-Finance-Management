@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PFMApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35ebf9f228063a1382dc62547d19bad44f336049")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53b40ddfabbd6577190b4331d76663b02131024d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PFMApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PFMApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
